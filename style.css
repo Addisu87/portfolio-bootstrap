@@ -25,6 +25,12 @@ html {
   margin: 0;
 }
 
+.container-fluid{
+  background-image: url(/images/Header-bg@2x.png);
+
+}
+
+
 body {
   font-family: 'Poppins', sans-serif;
   text-align: left;
